@@ -1,0 +1,1 @@
+modal.addEventListener('keypress', function (e) { if (e.keyCode === 27) { closeModal();}});
